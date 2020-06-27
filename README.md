@@ -16,3 +16,10 @@ ThirdParty\glfw
 
 https://www.glfw.org/
 https://github.com/glfw/glfw.git
+
+
+# GLEW
+ThirdParty\glew
+
+http://glew.sourceforge.net/
+https://github.com/nigels-com/glew.git

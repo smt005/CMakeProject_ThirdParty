@@ -10,3 +10,9 @@ https://github.com/open-source-parsers/jsoncpp.git
 ThirdParty\glm
 
 https://github.com/g-truc/glm.git
+
+# GLFW
+ThirdParty\glfw
+
+https://www.glfw.org/
+https://github.com/glfw/glfw.git

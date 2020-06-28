@@ -23,3 +23,13 @@ ThirdParty\glew
 
 http://glew.sourceforge.net/
 https://github.com/smt005/GLEW.git
+
+# FreeImage
+ThirdParty\FreeImage
+
+Библиотеки уже собраны, при сборке копируются в сборку
+	ThirdParty\FreeImage\build\Win32\Release\FreeImage.lib
+	ThirdParty\FreeImage\build\Win32\Release\FreeImage.dll
+
+https://freeimage.sourceforge.io/index.html
+https://github.com/smt005/FreeImage.git

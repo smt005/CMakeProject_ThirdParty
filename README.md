@@ -22,4 +22,4 @@ https://github.com/glfw/glfw.git
 ThirdParty\glew
 
 http://glew.sourceforge.net/
-https://github.com/nigels-com/glew.git
+https://github.com/smt005/GLEW.git

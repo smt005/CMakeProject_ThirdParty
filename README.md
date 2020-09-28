@@ -33,3 +33,8 @@ ThirdParty\FreeImage
 
 https://freeimage.sourceforge.io/index.html
 https://github.com/smt005/FreeImage.git
+
+# PhysX
+ThirdParty\PhysX
+
+https://github.com/NVIDIAGameWorks/PhysX.git

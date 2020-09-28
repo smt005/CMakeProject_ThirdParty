@@ -13,3 +13,6 @@
 [submodule "FreeImage"]
 	path = FreeImage
 	url = https://github.com/smt005/FreeImage.git
+[submodule "PhysX"]
+	path = PhysX
+	url = https://github.com/NVIDIAGameWorks/PhysX.git

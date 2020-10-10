@@ -16,3 +16,6 @@
 [submodule "PhysX"]
 	path = PhysX
 	url = https://github.com/NVIDIAGameWorks/PhysX.git
+[submodule "freetype2"]
+	path = freetype2
+	url = git://git.sv.nongnu.org/freetype/freetype2.git

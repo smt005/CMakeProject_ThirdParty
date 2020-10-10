@@ -38,3 +38,9 @@ https://github.com/smt005/FreeImage.git
 ThirdParty\PhysX
 
 https://github.com/NVIDIAGameWorks/PhysX.git
+
+
+# freetype2
+ThirdParty\freetype2
+
+git://git.sv.nongnu.org/freetype/freetype2.git

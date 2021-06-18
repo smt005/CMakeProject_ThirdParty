@@ -1,4 +1,4 @@
-# CMakeProject_ThirdParty
+# ThirdParty
 Сторонние библиотеки
 
 #json

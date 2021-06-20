@@ -37,6 +37,7 @@ https://github.com/smt005/FreeImage.git
 # PhysX
 ThirdParty\PhysX
 
+https://github.com/smt005/PhysX Для изменения для проекта
 https://github.com/NVIDIAGameWorks/PhysX.git
 
 
